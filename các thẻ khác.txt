@@ -1,0 +1,29 @@
+1.<!DOCTYPE>	
+Xác định cho trình duyệt biết phiên bản HTML mà bạn đang sử dụng
+2.<b>	
+Xác định đoạn văn bản được in đậm
+3.<i>
+Xác định đoạn văn bản được in nghiêng
+4.<u>
+Xác định đoạn văn bản được gạch chân 
+5.<br>
+ngắt xuống dòng
+6.<table> 
+Xác định phần tử là một cái bảng
+7.<input type="text">
+tạo 1 ô điền chữ
+8.<input type="checkbox">
+tạo 1 ô tick
+9.<input name="loc" type="radio">
+<input name="loc" type="radio">
+<input name="loc" type="radio">
+tạo các nút chọn chỉ chọn được 1 
+10.<button>
+tạo 1 nút để nhấn vào
+11.<div>
+tạo 1 khối bao quanh nội dung
+
+
+
+
+
